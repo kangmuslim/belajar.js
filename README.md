@@ -1,0 +1,2 @@
+# belajar.js
+belajar
